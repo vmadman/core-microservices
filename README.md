@@ -2,4 +2,4 @@
 
 Microservice libs for the Core Node.js Framework.
 
-This is a work in progress.
+This is a work in progress...
