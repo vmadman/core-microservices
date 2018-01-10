@@ -1,2 +1,5 @@
 # core-microservices
-Microservice libs for the Core Node.js Framework
+
+Microservice libs for the Core Node.js Framework.
+
+This is a work in progress.
